@@ -1,0 +1,3 @@
+[16-Apr-2020 11:54:03 America/New_York] PHP Notice:  Undefined index: cf_name in /home/khannyjf/uxatik.com/contact.php on line 2
+[16-Apr-2020 11:54:03 America/New_York] PHP Notice:  Undefined index: cf_email in /home/khannyjf/uxatik.com/contact.php on line 3
+[16-Apr-2020 11:54:03 America/New_York] PHP Notice:  Undefined index: cf_message in /home/khannyjf/uxatik.com/contact.php on line 4
